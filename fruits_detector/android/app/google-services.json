@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007356461142",
+    "project_id": "fruits-detector-f6218",
+    "storage_bucket": "fruits-detector-f6218.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007356461142:android:0478423dbfc0669e5cbbf7",
+        "android_client_info": {
+          "package_name": "com.example.fruits_detector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl83lgq81jWQw2SSLRUuKFFa-Ww9O94G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
